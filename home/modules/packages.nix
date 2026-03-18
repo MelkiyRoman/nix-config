@@ -37,10 +37,9 @@
     wl-clipboard
     peazip
     bitwarden-desktop
-    qwen-code
     gnome-calculator
     gnome-clocks
-    godot
+    krita
 
     # Terminal Programs
     foot
@@ -57,7 +56,6 @@
     lazygit
 
     # Virtualization
-    distrobox
 
     # Media
     mpv

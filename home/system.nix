@@ -1,7 +1,7 @@
 { config, pkgs, username, hostname, ... }:
 
 {
-  time.timeZone = "Europe/Moscow";
+  time.timeZone = "Europe/Samara";
   i18n.defaultLocale = "en_US.UTF-8";
 
   documentation = {
